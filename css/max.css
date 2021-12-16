@@ -9,17 +9,47 @@ header{
 header img{
 	border-radius: 10px;
 	width: 330px;
-	border: 5px solid mistyrose;
+	border: 0px solid mistyrose;
 }
 
 header h1{
 	color: #FFFFFF;
-	font-family: arial;
-	font-size: 50px;
+	font-family: Arial Black;
+	font-size: 40px;
+}
+
+main{
+	max-width: 800px;
+	margin: 0;
+	padding: 0px 20px 20px 100px;
 }
 
 main h2{
 	text-align: center;
 	font-size: 30px;
-	font-family: arial;
+	font-family: Arial;
+}
+
+main p{
+	font-family: Arial;
+	text-align: justify;
+
+}
+
+main img{
+	max-width: 300%;
+}
+
+main ol{
+	font-family: Arial;
+}
+
+main ul a{
+	font-family: Arial;
+	color: #000000;
+}
+
+footer{
+	font-family: Arial;
+	font-size: 10px;
 }
