@@ -31,7 +31,8 @@ main h2{
 }
 
 main p{
-	font-family: Arial;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
 	text-align: justify;
 
 }
@@ -52,4 +53,10 @@ main ul a{
 footer{
 	font-family: Arial;
 	font-size: 10px;
+}
+
+.outros{ background-color: #880C00;
+	width: 670px;
+	padding: 50px;
+	border: solid 20px #880C00;
 }
